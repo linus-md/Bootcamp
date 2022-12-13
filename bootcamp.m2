@@ -12,7 +12,7 @@ x^3
 
 K = ideal(x+y+z)
 
--- indexed variables
+-- indexeded variables
 restart
 R = QQ[x, y, z]
 R = QQ[x_0..x_3]
