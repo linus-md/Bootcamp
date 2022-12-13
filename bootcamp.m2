@@ -32,4 +32,3 @@ describe R
 x > y
 x > y^1000
   
-  
