@@ -31,3 +31,4 @@ R = QQ[x,y, MonomialOrder => Lex]
 describe R
 x > y
 x > y^1000
+  
